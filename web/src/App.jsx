@@ -99,7 +99,7 @@ function HeroSection() {
             面试行为系统性研究报告
           </h1>
           <p className="text-lg text-slate-300 max-w-2xl mx-auto">
-            作者：<a href="https://space.bilibili.com/441302483" target="_blank" rel="noopener noreferrer" className="text-indigo-300 hover:text-white underline underline-offset-2 transition-colors">凶猛肱二头</a> | 985硕士 研二 | NLP / 大模型 / CV
+            作者：<a href="https://space.bilibili.com/441302483" target="_blank" rel="noopener noreferrer" className="text-indigo-300 hover:text-white underline underline-offset-2 transition-colors">凶猛肱二头</a> | NLP / 大模型 / CV
           </p>
           <div className="mt-4 inline-flex items-center gap-1.5 px-4 py-2 bg-amber-500/10 border border-amber-400/20 rounded-lg text-xs text-amber-200">
             ⚠️ 本报告中的公司名称均已做模糊化处理（公司A~V），实际覆盖互联网大厂、车企、AI创业公司、芯片厂等大中小企业，为防定位故做匿名处理。
